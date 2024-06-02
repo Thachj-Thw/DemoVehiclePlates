@@ -451,6 +451,7 @@
 		"TabBar",
 		"TabContainer",
 		"TextEdit",
+		"TextFile",
 		"TextLine",
 		"TextParagraph",
 		"TextServer",

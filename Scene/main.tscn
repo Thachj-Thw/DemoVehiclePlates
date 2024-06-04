@@ -76,6 +76,7 @@ text = "Đọc biển số"
 unique_name_in_owner = true
 layout_mode = 2
 size_flags_vertical = 3
+expand_mode = 2
 
 [node name="HTTPRequest" type="HTTPRequest" parent="."]
 use_threads = true
